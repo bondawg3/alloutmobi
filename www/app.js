@@ -36,7 +36,7 @@ var homePage =
 var detailsPage =
     '<div>' +
         '<div class="header">' +
-            '<div class="header"><img class="mobibannersvg" src="images/logopennant.svg" alt="All Out!"></div>' + 
+            '<div class="header"><img class="mobibannersvg" src="images/allout%20banner.png" alt="All Out!"></div>' + 
             '<a href="#" class="navbtn">Back</a>' +
         '</div>' +
         '<div class="scroller">' +

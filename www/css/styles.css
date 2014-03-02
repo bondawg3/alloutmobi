@@ -23,6 +23,8 @@ a {
     right: 0px;
     height: 125px;
     background: #e0e0e0;
+    text-align: center;
+
     color: #FFFFFF;
     border-bottom: 1px solid #57585b;
 }
@@ -30,7 +32,8 @@ a {
 .header .mobibannersvg {
     max-width: 80%;
     max-height: 80%;
-    padding: 10px 50px;    
+    padding: 10px 50px;  
+
 }
 
 .header h1 {
