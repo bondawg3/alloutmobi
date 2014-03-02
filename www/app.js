@@ -37,7 +37,7 @@ var detailsPage =
     '<div>' +
         '<div class="header">' +
             '<div class="header"><img class="mobibannersvg" src="images/logopennant.svg" alt="All Out!"></div>' + 
-            '<a href="#" class="btn">Back</a>' +
+            '<a href="#" class="navbtn">Back</a>' +
         '</div>' +
         '<div class="scroller">' +
             '<div class="campaign">' +
@@ -46,7 +46,17 @@ var detailsPage =
                 '<p>{{description}}</p>' +
                 '<p>{{main_content}}</p>' +
                 '<div class="btn">' +
-                    '<img src="images/sign%20and%20share%20btn.svg" alt="Sign & Share!">' +
+                    '<p><img src="images/facebook%20callout.png" alt="demo slider setting">' +
+                        '<img src="images/pink%20sign%20grey%20share.png"></p>' +
+                    '<p><img src="images/twitter%20callout.png" alt="demo slider setting">' +
+                        '<img src="images/grey%20sign%20pink%20share.png"></p>' +
+                    '<p><img src="images/googleplus%20callout.png" alt="demo slider setting">' +
+                        '<img src="images/register.png"></p>' +
+                    '<p><img src="images/linkedin%20callout.png" alt="demo slider setting">' +
+                        '<img src="images/grey%20sign%20pink%20share.png"></p>' +
+                    '<p><img src="images/tumbler%20callout.png" alt="demo slider setting">' +
+                        '<img src="images/grey%20sign%20pink%20share.png"></p>' +
+                    '<p><img class="btn" src="images/sign-and-share-bevel-btn.png" alt"sign and share!"></p>' +
                 '</div>' +
             '</div>' +
         '</div>' +

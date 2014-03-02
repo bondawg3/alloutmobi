@@ -40,7 +40,7 @@ a {
     margin: 0px;
 }
 
-.header .btn {
+.header .navbtn {
     padding: 0px 12px 0px 12px;
     position: absolute;
     top: 20px;
@@ -107,6 +107,12 @@ a {
     text-align: center;
 }
 
+.campaign .btn {
+    position:relative;
+    max-width: 1250px;
+    max-height: 50px;
+    text-align: center;
+}
 .campaign .btn > img {
     position:relative;
     max-width: 1250px;
