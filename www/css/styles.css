@@ -114,14 +114,9 @@ a {
     text-align: center;
 }
 
-.campaign .btn .calltoaction {
-   position: absolute; 
-   left: 0; 
-   width: 100%; 
-}
-
 .campaign > p {
-    clear: both;
+    float: left;
+
 }
 
 .campaign h2 {

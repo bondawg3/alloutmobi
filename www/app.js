@@ -47,7 +47,6 @@ var detailsPage =
                 '<p>{{main_content}}</p>' +
                 '<div class="btn">' +
                     '<img src="images/sign%20and%20share%20btn.svg" alt="Sign & Share!">' +
-                    '<div class="calltoaction">Sign & Share!</div>' +
                 '</div>' +
             '</div>' +
         '</div>' +
